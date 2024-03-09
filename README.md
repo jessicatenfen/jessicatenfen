@@ -6,22 +6,24 @@ Olá, eu sou a Jéssica Tenfen!
 <p> 💻 Trabalho com Oracle Forms e PL/SQL </p>
 
 &nbsp;
+
+<a href="https://www.linkedin.com/in/jessica-tenfen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/> 
+
+&nbsp;
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicatenfen&show_icons=true&theme=radical"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicatenfen&hide_progress=true&theme=radical"/>  
-
-  &nbsp;
-  
-  <a href="https://github.com/jessicatenfen/petshop_frontend">
-    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jessicatenfen&repo=petshop_frontend" />
-  </a>
-  <a href="https://github.com/jessicatenfen/conhecendo_os_animais">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jessicatenfen&repo=conhecendo_os_animais" />
-  </a>
 </div>
 
 ##
 
+<div style="display: inline_block">
+  <img align="center" alt="jess-oracle" height="30" width="80" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+  <img align="center" alt="jess-ts" height="30" width="80" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
+  <img align="center" alt="jess-angular" height="30" width="80" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img align="center" alt="jess-html" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="jess-css3" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
 
 
 
