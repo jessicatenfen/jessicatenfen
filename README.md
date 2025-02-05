@@ -1,9 +1,13 @@
-Olá, eu sou a Jéssica Tenfen! 
+Hi, I'm Jéssica Tenfen! 
+Senior Fullstack Developer | Creating High-Impact Solutions with Oracle & PL/SQL
 
 &nbsp;
-<p> ⌛ Programadora desde 2021 </p>
-<p> 🎓 Formada em ADS </p>
-<p> 💻 Trabalho com Oracle Forms e PL/SQL </p>
+<p> ⌛ Developer since 2021 </p>
+<p> 🎓 Graduated on Software Development  </p>
+<p> 💻 Work with Oracle Forms and PL/SQL </p>
+<p> :earth_americas: Experience with Angular, TypeScript, HTML/CSS, JSON,  REST APIs, Oracle Database </p>
+<p> :hourglass: I’m currently working on creating an Oracle Forms and PL/SQL training course </p>
+
 
 &nbsp;
 
